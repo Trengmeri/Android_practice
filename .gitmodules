@@ -1,0 +1,12 @@
+[submodule "RandomNum"]
+	path = RandomNum
+	url = https://github.com/Trengmeri/RandomNum.git
+[submodule "Intent"]
+	path = Intent
+	url = https://github.com/Trengmeri/Intent.git
+[submodule "Caculator"]
+	path = Caculator
+	url = https://github.com/Trengmeri/Caculator.git
+[submodule "AppToanCau"]
+	path = AppToanCau
+	url = https://github.com/Trengmeri/AppToanCau.git
